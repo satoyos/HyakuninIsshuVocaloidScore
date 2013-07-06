@@ -1497,7 +1497,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>7440</posTick>
+				<posTick>7200</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>92</velocity>
@@ -1516,7 +1516,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>7680</posTick>
+				<posTick>7440</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1535,7 +1535,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>7920</posTick>
+				<posTick>7680</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1554,7 +1554,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>8400</posTick>
+				<posTick>8160</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1573,7 +1573,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>8640</posTick>
+				<posTick>8400</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1604,7 +1604,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>8880</posTick>
+				<posTick>8640</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1623,7 +1623,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>9120</posTick>
+				<posTick>8880</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1654,7 +1654,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>9840</posTick>
+				<posTick>9600</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>92</velocity>
@@ -1673,7 +1673,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>10080</posTick>
+				<posTick>9840</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1692,7 +1692,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>10320</posTick>
+				<posTick>10080</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1711,7 +1711,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>10560</posTick>
+				<posTick>10320</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1730,7 +1730,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>10800</posTick>
+				<posTick>10560</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1761,7 +1761,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>11280</posTick>
+				<posTick>11040</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1780,7 +1780,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>11520</posTick>
+				<posTick>11280</posTick>
 				<durTick>1320</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1811,7 +1811,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>13440</posTick>
+				<posTick>12840</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>92</velocity>
@@ -1830,7 +1830,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>13680</posTick>
+				<posTick>13080</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1849,7 +1849,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>13920</posTick>
+				<posTick>13320</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1868,7 +1868,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>14400</posTick>
+				<posTick>13800</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1887,7 +1887,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>14640</posTick>
+				<posTick>14040</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1918,7 +1918,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>14880</posTick>
+				<posTick>14280</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1937,7 +1937,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>15120</posTick>
+				<posTick>14520</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1968,7 +1968,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>15840</posTick>
+				<posTick>15240</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>92</velocity>
@@ -1987,7 +1987,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>16080</posTick>
+				<posTick>15480</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -2006,7 +2006,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>16320</posTick>
+				<posTick>15720</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -2025,7 +2025,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>16560</posTick>
+				<posTick>15960</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -2044,7 +2044,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>16800</posTick>
+				<posTick>16200</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -2075,7 +2075,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>17280</posTick>
+				<posTick>16680</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -2094,7 +2094,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>17520</posTick>
+				<posTick>16920</posTick>
 				<durTick>1320</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
