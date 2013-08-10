@@ -1268,8 +1268,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>98</velocity>
-				<lyric><![CDATA[ほ]]></lyric>
-				<phnms><![CDATA[h o]]></phnms>
+				<lyric><![CDATA[お]]></lyric>
+				<phnms><![CDATA[o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
