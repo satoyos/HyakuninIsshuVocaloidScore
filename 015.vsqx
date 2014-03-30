@@ -63,7 +63,7 @@
 		</timeSig>
 		<tempo>
 			<posTick>0</posTick>
-			<bpm>12000</bpm>
+			<bpm>13000</bpm>
 		</tempo>
 	</masterTrack>
 	<vsTrack>
@@ -948,7 +948,7 @@
 			</note>
 			<note>
 				<posTick>960</posTick>
-				<durTick>720</durTick>
+				<durTick>360</durTick>
 				<noteNum>65</noteNum>
 				<velocity>94</velocity>
 				<lyric><![CDATA[め]]></lyric>
@@ -961,24 +961,12 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">75</attr>
+					<attr id="vibLen">62</attr>
 					<attr id="vibType">1</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>16384</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>16384</posNrm>
-							<elv>50</elv>
-						</elem>
-					</seqAttr>
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>1920</posTick>
+				<posTick>1440</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>124</velocity>
@@ -997,7 +985,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>2160</posTick>
+				<posTick>1680</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1016,45 +1004,45 @@
 				</noteStyle>
 			</note>
 			<note>
+				<posTick>1920</posTick>
+				<durTick>240</durTick>
+				<noteNum>65</noteNum>
+				<velocity>124</velocity>
+				<lyric><![CDATA[の]]></lyric>
+				<phnms><![CDATA[n o]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>2160</posTick>
+				<durTick>240</durTick>
+				<noteNum>65</noteNum>
+				<velocity>124</velocity>
+				<lyric><![CDATA[の]]></lyric>
+				<phnms><![CDATA[n o]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
 				<posTick>2400</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>124</velocity>
-				<lyric><![CDATA[の]]></lyric>
-				<phnms><![CDATA[n o]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>2640</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>124</velocity>
-				<lyric><![CDATA[の]]></lyric>
-				<phnms><![CDATA[n o]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>2880</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1085,7 +1073,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>3120</posTick>
+				<posTick>2640</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1104,7 +1092,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>3360</posTick>
+				<posTick>2880</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1123,7 +1111,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>3600</posTick>
+				<posTick>3120</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1142,7 +1130,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>4320</posTick>
+				<posTick>3840</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>124</velocity>
@@ -1161,7 +1149,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>4560</posTick>
+				<posTick>4080</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1180,7 +1168,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>4800</posTick>
+				<posTick>4320</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1199,7 +1187,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>5280</posTick>
+				<posTick>4800</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1218,7 +1206,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>5520</posTick>
+				<posTick>5040</posTick>
 				<durTick>960</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
@@ -1249,12 +1237,50 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>7200</posTick>
+				<posTick>6480</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>92</velocity>
 				<lyric><![CDATA[わ]]></lyric>
 				<phnms><![CDATA[w a]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>6720</posTick>
+				<durTick>480</durTick>
+				<noteNum>65</noteNum>
+				<velocity>92</velocity>
+				<lyric><![CDATA[が]]></lyric>
+				<phnms><![CDATA[g a]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>7200</posTick>
+				<durTick>240</durTick>
+				<noteNum>65</noteNum>
+				<velocity>92</velocity>
+				<lyric><![CDATA[こ]]></lyric>
+				<phnms><![CDATA[k o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1269,44 +1295,6 @@
 			</note>
 			<note>
 				<posTick>7440</posTick>
-				<durTick>480</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[が]]></lyric>
-				<phnms><![CDATA[g a]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>7920</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[こ]]></lyric>
-				<phnms><![CDATA[k o]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>8160</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1325,7 +1313,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>8400</posTick>
+				<posTick>7680</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1356,7 +1344,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>8640</posTick>
+				<posTick>7920</posTick>
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1387,7 +1375,7 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>8880</posTick>
+				<posTick>8160</posTick>
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
@@ -1418,12 +1406,69 @@
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>9600</posTick>
+				<posTick>8880</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
 				<velocity>92</velocity>
 				<lyric><![CDATA[ゆ]]></lyric>
 				<phnms><![CDATA[j M]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>9120</posTick>
+				<durTick>240</durTick>
+				<noteNum>65</noteNum>
+				<velocity>92</velocity>
+				<lyric><![CDATA[き]]></lyric>
+				<phnms><![CDATA[k' i]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>9360</posTick>
+				<durTick>240</durTick>
+				<noteNum>65</noteNum>
+				<velocity>92</velocity>
+				<lyric><![CDATA[わ]]></lyric>
+				<phnms><![CDATA[w a]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>9600</posTick>
+				<durTick>240</durTick>
+				<noteNum>65</noteNum>
+				<velocity>92</velocity>
+				<lyric><![CDATA[ふ]]></lyric>
+				<phnms><![CDATA[p\ M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1438,11 +1483,11 @@
 			</note>
 			<note>
 				<posTick>9840</posTick>
-				<durTick>240</durTick>
+				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
-				<lyric><![CDATA[き]]></lyric>
-				<phnms><![CDATA[k' i]]></phnms>
+				<lyric><![CDATA[り]]></lyric>
+				<phnms><![CDATA[4' i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1451,27 +1496,20 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>10080</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[わ]]></lyric>
-				<phnms><![CDATA[w a]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
+					<attr id="vibLen">62</attr>
+					<attr id="vibType">1</attr>
+					<seqAttr id="vibDep">
+						<elem>
+							<posNrm>24985</posNrm>
+							<elv>64</elv>
+						</elem>
+					</seqAttr>
+					<seqAttr id="vibRate">
+						<elem>
+							<posNrm>24985</posNrm>
+							<elv>50</elv>
+						</elem>
+					</seqAttr>
 				</noteStyle>
 			</note>
 			<note>
@@ -1479,8 +1517,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
-				<lyric><![CDATA[ふ]]></lyric>
-				<phnms><![CDATA[p\ M]]></phnms>
+				<lyric><![CDATA[つ]]></lyric>
+				<phnms><![CDATA[ts M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1495,38 +1533,7 @@
 			</note>
 			<note>
 				<posTick>10560</posTick>
-				<durTick>480</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[り]]></lyric>
-				<phnms><![CDATA[4' i]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">62</attr>
-					<attr id="vibType">1</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>24985</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>24985</posNrm>
-							<elv>50</elv>
-						</elem>
-					</seqAttr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>11040</posTick>
-				<durTick>240</durTick>
+				<durTick>2400</durTick>
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
 				<lyric><![CDATA[つ]]></lyric>
@@ -1539,362 +1546,17 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>11280</posTick>
-				<durTick>1320</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[つ]]></lyric>
-				<phnms><![CDATA[ts M]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">49</attr>
+					<attr id="vibLen">71</attr>
 					<attr id="vibType">13</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>33463</posNrm>
+							<posNrm>19062</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>33463</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>12840</posTick>
-				<durTick>240</durTick>
-				<noteNum>53</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[わ]]></lyric>
-				<phnms><![CDATA[w a]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>13080</posTick>
-				<durTick>480</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[が]]></lyric>
-				<phnms><![CDATA[g a]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>13560</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[こ]]></lyric>
-				<phnms><![CDATA[k o]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>13800</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[ろ]]></lyric>
-				<phnms><![CDATA[4 o]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>14040</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[も]]></lyric>
-				<phnms><![CDATA[m o]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">21</attr>
-					<attr id="vibType">1</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>51882</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>51882</posNrm>
-							<elv>50</elv>
-						</elem>
-					</seqAttr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>14280</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[で]]></lyric>
-				<phnms><![CDATA[d e]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">21</attr>
-					<attr id="vibType">1</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>51882</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>51882</posNrm>
-							<elv>50</elv>
-						</elem>
-					</seqAttr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>14520</posTick>
-				<durTick>480</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[に]]></lyric>
-				<phnms><![CDATA[J i]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">66</attr>
-					<attr id="vibType">1</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>22391</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>22391</posNrm>
-							<elv>50</elv>
-						</elem>
-					</seqAttr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>15240</posTick>
-				<durTick>240</durTick>
-				<noteNum>53</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[ゆ]]></lyric>
-				<phnms><![CDATA[j M]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>15480</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[き]]></lyric>
-				<phnms><![CDATA[k' i]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>15720</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[わ]]></lyric>
-				<phnms><![CDATA[w a]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>15960</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[ふ]]></lyric>
-				<phnms><![CDATA[p\ M]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>16200</posTick>
-				<durTick>480</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[り]]></lyric>
-				<phnms><![CDATA[4' i]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">62</attr>
-					<attr id="vibType">1</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>24985</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>24985</posNrm>
-							<elv>50</elv>
-						</elem>
-					</seqAttr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>16680</posTick>
-				<durTick>240</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[つ]]></lyric>
-				<phnms><![CDATA[ts M]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">0</attr>
-					<attr id="vibType">0</attr>
-				</noteStyle>
-			</note>
-			<note>
-				<posTick>16920</posTick>
-				<durTick>1320</durTick>
-				<noteNum>65</noteNum>
-				<velocity>92</velocity>
-				<lyric><![CDATA[つ]]></lyric>
-				<phnms><![CDATA[ts M]]></phnms>
-				<noteStyle>
-					<attr id="accent">50</attr>
-					<attr id="bendDep">8</attr>
-					<attr id="bendLen">0</attr>
-					<attr id="decay">50</attr>
-					<attr id="fallPort">0</attr>
-					<attr id="opening">127</attr>
-					<attr id="risePort">0</attr>
-					<attr id="vibLen">49</attr>
-					<attr id="vibType">13</attr>
-					<seqAttr id="vibDep">
-						<elem>
-							<posNrm>33463</posNrm>
-							<elv>64</elv>
-						</elem>
-					</seqAttr>
-					<seqAttr id="vibRate">
-						<elem>
-							<posNrm>33463</posNrm>
+							<posNrm>19062</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
