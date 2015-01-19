@@ -96,11 +96,11 @@
 			</singer>
 			<mCtrl>
 				<posTick>0</posTick>
-				<attr id="BRI">106</attr>
+				<attr id="CLE">13</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>0</posTick>
-				<attr id="CLE">13</attr>
+				<attr id="BRI">106</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>0</posTick>
@@ -199,12 +199,284 @@
 				<attr id="DYN">82</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>4220</posTick>
+				<attr id="CLE">49</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4222</posTick>
+				<attr id="CLE">51</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4224</posTick>
+				<attr id="CLE">53</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4226</posTick>
+				<attr id="CLE">55</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4228</posTick>
+				<attr id="CLE">57</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>4230</posTick>
 				<attr id="DYN">83</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>4230</posTick>
+				<attr id="CLE">59</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4232</posTick>
+				<attr id="CLE">61</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4234</posTick>
+				<attr id="CLE">63</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4236</posTick>
+				<attr id="CLE">65</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4238</posTick>
+				<attr id="CLE">67</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4240</posTick>
+				<attr id="CLE">69</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4242</posTick>
+				<attr id="CLE">71</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4244</posTick>
+				<attr id="CLE">73</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4246</posTick>
+				<attr id="CLE">75</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4248</posTick>
+				<attr id="CLE">77</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4250</posTick>
+				<attr id="CLE">79</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4252</posTick>
+				<attr id="CLE">81</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4254</posTick>
+				<attr id="CLE">83</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4256</posTick>
+				<attr id="CLE">85</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4258</posTick>
+				<attr id="CLE">87</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4260</posTick>
+				<attr id="CLE">89</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4262</posTick>
+				<attr id="CLE">91</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4264</posTick>
+				<attr id="CLE">93</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4266</posTick>
+				<attr id="CLE">95</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4268</posTick>
+				<attr id="CLE">97</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4270</posTick>
+				<attr id="CLE">99</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4272</posTick>
+				<attr id="CLE">101</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4274</posTick>
+				<attr id="CLE">103</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4276</posTick>
+				<attr id="CLE">105</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4278</posTick>
+				<attr id="CLE">107</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4280</posTick>
+				<attr id="CLE">109</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4282</posTick>
+				<attr id="CLE">111</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4284</posTick>
+				<attr id="CLE">113</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4286</posTick>
+				<attr id="CLE">115</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4288</posTick>
+				<attr id="CLE">117</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4290</posTick>
+				<attr id="CLE">119</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4292</posTick>
+				<attr id="CLE">121</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4294</posTick>
+				<attr id="CLE">123</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4295</posTick>
+				<attr id="CLE">125</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4370</posTick>
+				<attr id="CLE">124</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4372</posTick>
+				<attr id="CLE">122</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4374</posTick>
+				<attr id="CLE">119</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4376</posTick>
+				<attr id="CLE">116</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4378</posTick>
+				<attr id="CLE">114</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4380</posTick>
+				<attr id="CLE">111</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4382</posTick>
+				<attr id="CLE">108</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4384</posTick>
+				<attr id="CLE">106</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4386</posTick>
+				<attr id="CLE">103</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4388</posTick>
+				<attr id="CLE">100</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4390</posTick>
+				<attr id="CLE">98</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4392</posTick>
+				<attr id="CLE">95</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4394</posTick>
+				<attr id="CLE">92</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4396</posTick>
+				<attr id="CLE">90</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4398</posTick>
+				<attr id="CLE">87</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4400</posTick>
+				<attr id="CLE">84</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4402</posTick>
+				<attr id="CLE">81</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4404</posTick>
+				<attr id="CLE">79</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4406</posTick>
+				<attr id="CLE">76</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4408</posTick>
+				<attr id="CLE">73</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>4410</posTick>
 				<attr id="DYN">84</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4410</posTick>
+				<attr id="CLE">71</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4412</posTick>
+				<attr id="CLE">68</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4414</posTick>
+				<attr id="CLE">65</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4416</posTick>
+				<attr id="CLE">63</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4418</posTick>
+				<attr id="CLE">60</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4420</posTick>
+				<attr id="CLE">57</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4422</posTick>
+				<attr id="CLE">55</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4424</posTick>
+				<attr id="CLE">52</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>4425</posTick>
+				<attr id="CLE">50</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>4980</posTick>
@@ -451,60 +723,260 @@
 				<attr id="DYN">80</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>10820</posTick>
+				<attr id="BRE">85</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10825</posTick>
+				<attr id="BRE">7</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10839</posTick>
+				<attr id="BRE">8</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10851</posTick>
+				<attr id="BRE">9</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>10855</posTick>
 				<attr id="DYN">81</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10863</posTick>
+				<attr id="BRE">10</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>10865</posTick>
 				<attr id="DYN">82</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>10877</posTick>
+				<attr id="BRE">11</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10889</posTick>
+				<attr id="BRE">12</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>10901</posTick>
 				<attr id="DYN">83</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10901</posTick>
+				<attr id="BRE">13</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10913</posTick>
+				<attr id="BRE">14</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10927</posTick>
+				<attr id="BRE">15</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>10935</posTick>
 				<attr id="DYN">84</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>10939</posTick>
+				<attr id="BRE">16</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10951</posTick>
+				<attr id="BRE">17</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10963</posTick>
+				<attr id="BRE">18</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10977</posTick>
+				<attr id="BRE">19</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>10989</posTick>
+				<attr id="BRE">20</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11001</posTick>
+				<attr id="BRE">21</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11015</posTick>
+				<attr id="BRE">22</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11025</posTick>
 				<attr id="DYN">86</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11027</posTick>
+				<attr id="BRE">23</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11039</posTick>
+				<attr id="BRE">24</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11051</posTick>
+				<attr id="BRE">25</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11065</posTick>
+				<attr id="BRE">26</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11077</posTick>
+				<attr id="BRE">27</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11089</posTick>
+				<attr id="BRE">28</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11101</posTick>
+				<attr id="BRE">29</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11115</posTick>
+				<attr id="BRE">30</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11127</posTick>
+				<attr id="BRE">31</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11139</posTick>
+				<attr id="BRE">32</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11151</posTick>
+				<attr id="BRE">33</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11165</posTick>
+				<attr id="BRE">34</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11177</posTick>
+				<attr id="BRE">35</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11189</posTick>
+				<attr id="BRE">36</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11203</posTick>
+				<attr id="BRE">37</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11215</posTick>
+				<attr id="BRE">38</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11227</posTick>
+				<attr id="BRE">39</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11239</posTick>
+				<attr id="BRE">40</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11251</posTick>
 				<attr id="DYN">85</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11253</posTick>
+				<attr id="BRE">41</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11265</posTick>
+				<attr id="BRE">42</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11275</posTick>
 				<attr id="DYN">84</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11277</posTick>
+				<attr id="BRE">43</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11289</posTick>
+				<attr id="BRE">44</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11301</posTick>
 				<attr id="DYN">83</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11303</posTick>
+				<attr id="BRE">45</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11305</posTick>
 				<attr id="DYN">82</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11315</posTick>
+				<attr id="BRE">46</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11327</posTick>
+				<attr id="BRE">47</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11339</posTick>
+				<attr id="BRE">48</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11341</posTick>
 				<attr id="DYN">80</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11353</posTick>
+				<attr id="BRE">49</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11365</posTick>
+				<attr id="BRE">50</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11375</posTick>
 				<attr id="DYN">79</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11377</posTick>
+				<attr id="BRE">51</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11381</posTick>
 				<attr id="DYN">78</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11391</posTick>
+				<attr id="BRE">52</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11395</posTick>
 				<attr id="DYN">77</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11403</posTick>
+				<attr id="BRE">53</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11415</posTick>
 				<attr id="DYN">76</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11415</posTick>
+				<attr id="BRE">54</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11427</posTick>
+				<attr id="BRE">55</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11430</posTick>
@@ -515,16 +987,48 @@
 				<attr id="DYN">75</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11441</posTick>
+				<attr id="BRE">56</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11453</posTick>
+				<attr id="BRE">57</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11455</posTick>
 				<attr id="DYN">74</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11465</posTick>
+				<attr id="BRE">58</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11475</posTick>
 				<attr id="DYN">73</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11477</posTick>
+				<attr id="BRE">59</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11491</posTick>
+				<attr id="BRE">60</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11503</posTick>
+				<attr id="BRE">61</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11511</posTick>
 				<attr id="DYN">71</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11515</posTick>
+				<attr id="BRE">62</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11527</posTick>
+				<attr id="BRE">63</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11535</posTick>
@@ -535,28 +1039,84 @@
 				<attr id="DYN">69</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11541</posTick>
+				<attr id="BRE">64</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11553</posTick>
+				<attr id="BRE">65</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11565</posTick>
+				<attr id="BRE">66</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11579</posTick>
+				<attr id="BRE">67</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11581</posTick>
 				<attr id="DYN">67</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11591</posTick>
+				<attr id="BRE">68</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11603</posTick>
+				<attr id="BRE">69</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11615</posTick>
 				<attr id="DYN">66</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11615</posTick>
+				<attr id="BRE">70</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11625</posTick>
 				<attr id="DYN">65</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11629</posTick>
+				<attr id="BRE">71</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11631</posTick>
 				<attr id="DYN">64</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11641</posTick>
+				<attr id="BRE">72</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11653</posTick>
+				<attr id="BRE">73</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11665</posTick>
 				<attr id="DYN">62</attr>
 			</mCtrl>
 			<mCtrl>
+				<posTick>11665</posTick>
+				<attr id="BRE">74</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11679</posTick>
+				<attr id="BRE">75</attr>
+			</mCtrl>
+			<mCtrl>
 				<posTick>11691</posTick>
 				<attr id="DYN">61</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11691</posTick>
+				<attr id="BRE">76</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11703</posTick>
+				<attr id="BRE">77</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11705</posTick>
@@ -565,6 +1125,10 @@
 			<mCtrl>
 				<posTick>11711</posTick>
 				<attr id="DYN">59</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>11715</posTick>
+				<attr id="BRE">78</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>11735</posTick>
@@ -605,6 +1169,10 @@
 			<mCtrl>
 				<posTick>13380</posTick>
 				<attr id="DYN">71</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>13430</posTick>
+				<attr id="BRE">84</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>13488</posTick>
@@ -1236,7 +1804,7 @@
 			</note>
 			<note>
 				<posTick>960</posTick>
-				<durTick>960</durTick>
+				<durTick>60</durTick>
 				<noteNum>65</noteNum>
 				<velocity>94</velocity>
 				<lyric><![CDATA[の]]></lyric>
@@ -1249,17 +1817,36 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">82</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>1020</posTick>
+				<durTick>900</durTick>
+				<noteNum>65</noteNum>
+				<velocity>64</velocity>
+				<lyric><![CDATA[お]]></lyric>
+				<phnms><![CDATA[o]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">66</attr>
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>11810</posNrm>
+							<posNrm>22282</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>11810</posNrm>
+							<posNrm>22282</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -1521,7 +2108,7 @@
 				<posTick>6960</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>92</velocity>
+				<velocity>25</velocity>
 				<lyric><![CDATA[な]]></lyric>
 				<phnms><![CDATA[n a]]></phnms>
 				<noteStyle>
@@ -1806,7 +2393,7 @@
 				<noteNum>65</noteNum>
 				<velocity>92</velocity>
 				<lyric><![CDATA[ん]]></lyric>
-				<phnms><![CDATA[N]]></phnms>
+				<phnms><![CDATA[N\]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1819,13 +2406,13 @@
 					<attr id="vibType">13</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>18361</posNrm>
+							<posNrm>18350</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>18361</posNrm>
+							<posNrm>18350</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
