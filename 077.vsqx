@@ -96,7 +96,7 @@
 			</singer>
 			<mCtrl>
 				<posTick>0</posTick>
-				<attr id="BRI">106</attr>
+				<attr id="CLE">127</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>0</posTick>
@@ -104,19 +104,143 @@
 			</mCtrl>
 			<mCtrl>
 				<posTick>0</posTick>
-				<attr id="CLE">13</attr>
+				<attr id="BRI">106</attr>
 			</mCtrl>
 			<mCtrl>
-				<posTick>15</posTick>
-				<attr id="CLE">65</attr>
+				<posTick>27</posTick>
+				<attr id="CLE">125</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>29</posTick>
+				<attr id="CLE">123</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>30</posTick>
 				<attr id="DYN">62</attr>
 			</mCtrl>
 			<mCtrl>
-				<posTick>30</posTick>
-				<attr id="CLE">50</attr>
+				<posTick>31</posTick>
+				<attr id="CLE">120</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>33</posTick>
+				<attr id="CLE">118</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>35</posTick>
+				<attr id="CLE">115</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>37</posTick>
+				<attr id="CLE">113</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>39</posTick>
+				<attr id="CLE">111</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>41</posTick>
+				<attr id="CLE">108</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>43</posTick>
+				<attr id="CLE">106</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>45</posTick>
+				<attr id="CLE">103</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>47</posTick>
+				<attr id="CLE">101</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>49</posTick>
+				<attr id="CLE">99</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>51</posTick>
+				<attr id="CLE">96</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>53</posTick>
+				<attr id="CLE">94</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>55</posTick>
+				<attr id="CLE">91</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>57</posTick>
+				<attr id="CLE">89</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>59</posTick>
+				<attr id="CLE">87</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>61</posTick>
+				<attr id="CLE">84</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>63</posTick>
+				<attr id="CLE">82</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>65</posTick>
+				<attr id="CLE">79</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>67</posTick>
+				<attr id="CLE">77</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>69</posTick>
+				<attr id="CLE">75</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>71</posTick>
+				<attr id="CLE">72</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>73</posTick>
+				<attr id="CLE">70</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>75</posTick>
+				<attr id="CLE">67</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>77</posTick>
+				<attr id="CLE">65</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>79</posTick>
+				<attr id="CLE">63</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>81</posTick>
+				<attr id="CLE">60</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>83</posTick>
+				<attr id="CLE">58</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>85</posTick>
+				<attr id="CLE">55</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>87</posTick>
+				<attr id="CLE">53</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>89</posTick>
+				<attr id="CLE">51</attr>
+			</mCtrl>
+			<mCtrl>
+				<posTick>90</posTick>
+				<attr id="CLE">49</attr>
 			</mCtrl>
 			<mCtrl>
 				<posTick>120</posTick>
@@ -1200,7 +1324,7 @@
 			</note>
 			<note>
 				<posTick>5280</posTick>
-				<durTick>960</durTick>
+				<durTick>60</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
 				<lyric><![CDATA[の]]></lyric>
@@ -1213,17 +1337,36 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">74</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>5340</posTick>
+				<durTick>900</durTick>
+				<noteNum>65</noteNum>
+				<velocity>64</velocity>
+				<lyric><![CDATA[お]]></lyric>
+				<phnms><![CDATA[o]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">66</attr>
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>17066</posNrm>
+							<posNrm>22282</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>17066</posNrm>
+							<posNrm>22282</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -1233,7 +1376,7 @@
 				<posTick>6720</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>92</velocity>
+				<velocity>59</velocity>
 				<lyric><![CDATA[わ]]></lyric>
 				<phnms><![CDATA[w a]]></phnms>
 				<noteStyle>
@@ -1586,13 +1729,13 @@
 					<attr id="vibType">13</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>19062</posNrm>
+							<posNrm>19005</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>19062</posNrm>
+							<posNrm>19005</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>

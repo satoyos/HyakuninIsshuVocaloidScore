@@ -1145,7 +1145,7 @@
 				<posTick>3840</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>124</velocity>
+				<velocity>61</velocity>
 				<lyric><![CDATA[み]]></lyric>
 				<phnms><![CDATA[m' i]]></phnms>
 				<noteStyle>
@@ -1252,7 +1252,7 @@
 				<posTick>6960</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>92</velocity>
+				<velocity>63</velocity>
 				<lyric><![CDATA[よ]]></lyric>
 				<phnms><![CDATA[j o]]></phnms>
 				<noteStyle>
@@ -1433,7 +1433,7 @@
 				<posTick>9360</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>92</velocity>
+				<velocity>65</velocity>
 				<lyric><![CDATA[ふ]]></lyric>
 				<phnms><![CDATA[p\ M]]></phnms>
 				<noteStyle>

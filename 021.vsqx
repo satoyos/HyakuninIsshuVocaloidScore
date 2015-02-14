@@ -1126,7 +1126,7 @@
 				<posTick>4080</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>124</velocity>
+				<velocity>62</velocity>
 				<lyric><![CDATA[な]]></lyric>
 				<phnms><![CDATA[n a]]></phnms>
 				<noteStyle>
@@ -1433,7 +1433,7 @@
 				<posTick>9600</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>92</velocity>
+				<velocity>51</velocity>
 				<lyric><![CDATA[ま]]></lyric>
 				<phnms><![CDATA[m a]]></phnms>
 				<noteStyle>
@@ -1593,13 +1593,13 @@
 					<attr id="vibType">13</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>19062</posNrm>
+							<posNrm>19005</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>19062</posNrm>
+							<posNrm>19005</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>

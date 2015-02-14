@@ -874,7 +874,7 @@
 				<posTick>0</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>94</velocity>
+				<velocity>63</velocity>
 				<lyric><![CDATA[わ]]></lyric>
 				<phnms><![CDATA[w a]]></phnms>
 				<noteStyle>
@@ -965,13 +965,13 @@
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>34077</posNrm>
+							<posNrm>34224</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>34077</posNrm>
+							<posNrm>34224</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -1157,7 +1157,7 @@
 				<posTick>3840</posTick>
 				<durTick>240</durTick>
 				<noteNum>53</noteNum>
-				<velocity>124</velocity>
+				<velocity>96</velocity>
 				<lyric><![CDATA[ひ]]></lyric>
 				<phnms><![CDATA[C i]]></phnms>
 				<noteStyle>
@@ -1231,7 +1231,7 @@
 			</note>
 			<note>
 				<posTick>5040</posTick>
-				<durTick>960</durTick>
+				<durTick>60</durTick>
 				<noteNum>65</noteNum>
 				<velocity>124</velocity>
 				<lyric><![CDATA[の]]></lyric>
@@ -1244,17 +1244,36 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">74</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>5100</posTick>
+				<durTick>840</durTick>
+				<noteNum>65</noteNum>
+				<velocity>64</velocity>
+				<lyric><![CDATA[お]]></lyric>
+				<phnms><![CDATA[o]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">71</attr>
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>17066</posNrm>
+							<posNrm>19066</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>17066</posNrm>
+							<posNrm>19066</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -1586,13 +1605,13 @@
 					<attr id="vibType">13</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>19062</posNrm>
+							<posNrm>19005</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>19062</posNrm>
+							<posNrm>19005</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
